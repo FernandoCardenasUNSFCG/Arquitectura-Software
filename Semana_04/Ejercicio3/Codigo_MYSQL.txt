@@ -1,0 +1,9 @@
+CREATE DATABASE LOGIN;
+USE LOGIN;
+CREATE TABLE usuarios(
+usuario varchar(50)null;
+nombre varchar(50)null;
+apellido varchar(50)null;
+correo varchar(50)null;
+contraseña varchar(50)null;
+)
